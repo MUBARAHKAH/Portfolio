@@ -346,6 +346,11 @@ footer ul{
     height: 300px;
   }
 
+  .card2 .mub_img{
+    width: 300px;
+    height: 300px;
+  }
+
   .card_detail h2{
     font-size: 20px;
   }
